@@ -21,4 +21,20 @@ extension UIView {
         heightAnchor.constraint(equalTo: parentView.heightAnchor).isActive = true
     }
     
+    /// Rounds corners for its layer’s background.
+    /// - Parameter radius: The radius to use when drawing rounded corners.
+    public func addCornerRadius(_ radius: CGFloat = 5) {
+        layer.cornerRadius = radius
+        layer.masksToBounds = true
+    }
+    
+    /// Adds border line with an adjustable width and color to `self`.
+    /// - Parameters:
+    ///   - width: The width of the layer’s border.
+    ///   - color: The color of the layer’s border.
+    public func addBorderLine(width: CGFloat = 1, color: UIColor = .black) {
+        layer.borderWidth = width
+        layer.borderColor = color.cgColor
+    }
+    
 }
