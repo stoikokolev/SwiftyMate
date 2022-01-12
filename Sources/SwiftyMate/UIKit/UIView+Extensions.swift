@@ -37,4 +37,9 @@ extension UIView {
         layer.borderColor = color.cgColor
     }
     
+    /// Removes all subviews in `self`.
+    public func removeSubviews() {
+        subviews.forEach { $0.removeFromSuperview() }
+    }
+    
 }
