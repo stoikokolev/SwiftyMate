@@ -2,7 +2,7 @@
 
 ## What is SwiftyMate?
 
-SwiftyMate a library that does all this tedious work of creating the properties and methods that we write every time when we start a new project.
+SwiftyMate a library that does all this tedious work of creating properties and methods that we write every time when we start a new project.
 
 ## Installation
 
@@ -17,7 +17,6 @@ To install this package, import `https://github.com/stoikokolev/SwiftyMate` in S
 
 <details>
 <summary>Dispatch</summary>
-</br>
 <ul>
 <li><a href="https://github.com/stoikokolev/SwiftyMate/blob/main/Sources/SwiftyMate/Dispatch/DispatchQueue%2BExtensions.swift"><code>DispatchQueue Extensions</code></a></li>
 </ul>
@@ -25,7 +24,6 @@ To install this package, import `https://github.com/stoikokolev/SwiftyMate` in S
 
 <details>
 <summary>Foundation</summary>
-</br>
 <ul>
 <li><a href="https://github.com/stoikokolev/SwiftyMate/blob/main/Sources/SwiftyMate/Foundation/Bool%2BExtensions.swift"><code>Bool Extensions</code></a></li>
 <li><a href="https://github.com/stoikokolev/SwiftyMate/blob/main/Sources/SwiftyMate/Foundation/Character%2BExtensions.swift"><code>Character Extensions</code></a></li>
@@ -39,7 +37,6 @@ To install this package, import `https://github.com/stoikokolev/SwiftyMate` in S
 
 <details>
 <summary>UIKit</summary>
-</br>
 <ul>
 <li><a href="https://github.com/stoikokolev/SwiftyMate/blob/main/Sources/SwiftyMate/UIKit/UICollectionView%2BExtensions.swift"><code>UICollectionView Extensions</code></a></li>
 <li><a href="https://github.com/stoikokolev/SwiftyMate/blob/main/Sources/SwiftyMate/UIKit/UICollectionViewCell%2BExtensions.swift"><code>UICollectionViewCell Extensions</code></a></li>
@@ -56,4 +53,6 @@ To install this package, import `https://github.com/stoikokolev/SwiftyMate` in S
 
 ## Get Involved
 
-If you want to give feedback or have interesting ideas, please contact [Stoyko Kolev](mailto:stoikokolev@gmail.com).
+If you want to give feedback or have interesting ideas to share, please contact [Stoyko Kolev](mailto:stoikokolev@gmail.com).
+
+## Thank You!
