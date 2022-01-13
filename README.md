@@ -2,7 +2,7 @@
 
 ## What is SwiftyMate?
 
-SwiftyMate a library that does all this tedious work of creating properties and methods that we write every time when we start a new project.
+SwiftyMate is a library that does all this tedious work of creating properties and methods that we write every time when we start a new project.
 
 ## Installation
 
