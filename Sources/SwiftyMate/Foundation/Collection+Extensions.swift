@@ -14,7 +14,7 @@ extension Collection {
     /// - Example
     /// ```
     /// let array = ["Harry", "Ron"]
-    /// array[safe: 1] -> "Harry"
+    /// array[safe: 0] -> "Harry"
     /// array[safe: 10] -> nil
     /// ```
     public subscript(safe index: Index) -> Element? {
