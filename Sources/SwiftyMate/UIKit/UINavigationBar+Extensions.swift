@@ -33,4 +33,16 @@ extension UINavigationBar {
         titleTextAttributes = [.foregroundColor: text]
     }
     
+    /// Makes `NavigationBar` transparent.
+    /// - Parameter tint: The tint color to apply to the navigation items and bar button items. (default is .white).
+    public func makeTransparent(withTint tint: UIColor = .white) {
+        isTranslucent = true
+        backgroundColor = .clear
+        barTintColor = .clear
+        tintColor = tint
+        titleTextAttributes = [.foregroundColor: tint]
+        setBackgroundImage(UIImage(), for: .default)
+        shadowImage = UIImage()
+    }
+    
 }

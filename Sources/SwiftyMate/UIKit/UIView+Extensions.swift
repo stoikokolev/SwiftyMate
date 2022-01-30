@@ -37,6 +37,12 @@ extension UIView {
         layer.borderColor = color.cgColor
     }
     
+    /// Adds array of subviews to `self`.
+    /// - Parameter subviews: array of subviews to add to self.
+    public func addSubviews(_ subviews: [UIView]) {
+        subviews.forEach { addSubview($0) }
+    }
+    
     /// Removes all subviews in `self`.
     public func removeSubviews() {
         subviews.forEach { $0.removeFromSuperview() }
