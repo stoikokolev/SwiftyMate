@@ -40,6 +40,7 @@ To install this package, import `https://github.com/stoikokolev/SwiftyMate` in S
 <ul>
 <li><a href="https://github.com/stoikokolev/SwiftyMate/blob/main/Sources/SwiftyMate/UIKit/UICollectionView%2BExtensions.swift"><code>UICollectionView Extensions</code></a></li>
 <li><a href="https://github.com/stoikokolev/SwiftyMate/blob/main/Sources/SwiftyMate/UIKit/UICollectionViewCell%2BExtensions.swift"><code>UICollectionViewCell Extensions</code></a></li>
+<li><a href="https://github.com/stoikokolev/SwiftyMate/blob/main/Sources/SwiftyMate/UIKit/UIImage%2BExtensions.swift"><code>UIImage Extensions</code></a></li>
 <li><a href="https://github.com/stoikokolev/SwiftyMate/blob/main/Sources/SwiftyMate/UIKit/UIImageView%2BExtensions.swift"><code>UIImageView Extensions</code></a></li>
 <li><a href="https://github.com/stoikokolev/SwiftyMate/blob/main/Sources/SwiftyMate/UIKit/UINavigationBar%2BExtensions.swift"><code>UINavigationBar Extensions</code></a></li>
 <li><a href="https://github.com/stoikokolev/SwiftyMate/blob/main/Sources/SwiftyMate/UIKit/UINavigationController%2BExtensions.swift"><code>UINavigationController Extensions</code></a></li>
